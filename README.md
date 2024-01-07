@@ -12,9 +12,11 @@
 
 
 ## Créditos
-- [Nombre del diseñador en Figma].
+- Impossible Box de México S.A.S de C.V.
 -  Anima por la conversión a código
-- [Otros créditos si es necesario].
+- Imagen principal creada con Image Creator from Designer (Bing Image Creator).
+- Asistencia técnica proporcionada por ChatGPT+ de OpenAI.
+
 
 ## Reportes de errores
 Si tienes preguntas o sugerencias, contáctanos en impossiblebox@protonmail.com.
