@@ -12,7 +12,7 @@
 
 
 ## Créditos
-- Impossible Box de México S.A.S de C.V.
+- Impossible Box de México S.A.S. de C.V.
 -  Anima por la conversión a código
 - Imagen principal creada con Image Creator from Designer (Bing Image Creator).
 - Asistencia técnica proporcionada por ChatGPT+ de OpenAI.
