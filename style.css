@@ -1,0 +1,427 @@
+.landing-page-studio {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-studio .div {
+  background-color: #000000;
+  width: 1440px;
+  height: 2698px;
+  position: relative;
+}
+
+.landing-page-studio .hero-headline {
+  position: absolute;
+  width: 1352px;
+  height: 626px;
+  top: 116px;
+  left: 56px;
+}
+
+.landing-page-studio .dot-ornament {
+  width: 404px;
+  top: 472px;
+  position: absolute;
+  height: 154px;
+  left: 0;
+}
+
+.landing-page-studio .dot {
+  position: absolute;
+  width: 196px;
+  height: 154px;
+  top: 0;
+  left: 208px;
+}
+
+.landing-page-studio .img {
+  width: 196px;
+  top: 0;
+  position: absolute;
+  height: 154px;
+  left: 0;
+}
+
+.landing-page-studio .image {
+  position: absolute;
+  width: 730px;
+  height: 415px;
+  top: 0;
+  left: 626px;
+  object-fit: cover;
+}
+
+.landing-page-studio .content {
+  position: absolute;
+  width: 565px;
+  height: 321px;
+  top: 86px;
+  left: 4px;
+}
+
+.landing-page-studio .enfoque-tecnol-gico {
+  position: absolute;
+  width: 563px;
+  top: -1px;
+  left: -1px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .CTA-contact-now {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px 40px;
+  position: absolute;
+  top: 254px;
+  left: 12px;
+  background-color: #330036;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.landing-page-studio .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.5px;
+  margin-left: -0.5px;
+  -webkit-text-stroke: 0.5px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1.3px;
+  line-height: normal;
+}
+
+.landing-page-studio .p {
+  position: absolute;
+  width: 1077px;
+  top: 850px;
+  left: 61px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .text-wrapper-2 {
+  position: absolute;
+  width: 1077px;
+  top: 1115px;
+  left: 62px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .text-wrapper-3 {
+  position: absolute;
+  width: 1077px;
+  top: 1038px;
+  left: 52px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .text-wrapper-4 {
+  position: absolute;
+  width: 1077px;
+  top: 1313px;
+  left: 52px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .text-wrapper-5 {
+  position: absolute;
+  width: 1077px;
+  top: 1589px;
+  left: 52px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .text-wrapper-6 {
+  position: absolute;
+  width: 1077px;
+  top: 1385px;
+  left: 62px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .la-tecnolog-a-no {
+  position: absolute;
+  width: 1077px;
+  top: 1667px;
+  left: 62px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .text-wrapper-7 {
+  position: absolute;
+  width: 1077px;
+  top: 1968px;
+  left: 52px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .text-wrapper-8 {
+  position: absolute;
+  width: 1077px;
+  top: 2040px;
+  left: 62px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .text {
+  position: absolute;
+  width: 962px;
+  top: 796px;
+  left: 61px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 300;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .overlap-group {
+  position: absolute;
+  width: 1206px;
+  height: 349px;
+  top: 2329px;
+  left: 0;
+}
+
+.landing-page-studio .footer {
+  position: absolute;
+  width: 1206px;
+  height: 349px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.landing-page-studio .text-wrapper-9 {
+  position: absolute;
+  top: 129px;
+  left: 504px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 0.4px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .line {
+  width: 1200px;
+  top: -1px;
+  position: absolute;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.landing-page-studio .line-2 {
+  width: 1200px;
+  top: 308px;
+  position: absolute;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.landing-page-studio .text-wrapper-10 {
+  position: absolute;
+  width: 270px;
+  top: 116px;
+  left: 17px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 22.5px;
+}
+
+.landing-page-studio .twitter {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 244px;
+  left: 21px;
+}
+
+.landing-page-studio .line-3 {
+  width: 1201px;
+  top: 309px;
+  position: absolute;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.landing-page-studio .text-wrapper-11 {
+  position: absolute;
+  top: 327px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #a3a3a3;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.landing-page-studio .text-wrapper-12 {
+  position: absolute;
+  top: 128px;
+  left: 819px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 0.4px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .text-wrapper-13 {
+  position: absolute;
+  top: 158px;
+  left: 819px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 0.4px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .text-wrapper-14 {
+  position: absolute;
+  top: 158px;
+  left: 504px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 0.4px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .text-wrapper-15 {
+  position: absolute;
+  top: 188px;
+  left: 504px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 0.4px #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page-studio .path {
+  width: 303px;
+  height: 20px;
+  top: 57px;
+  left: 12px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.landing-page-studio .path-2 {
+  width: 414px;
+  height: 27px;
+  top: 42px;
+  left: 51px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.landing-page-studio .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px 40px;
+  position: absolute;
+  top: 2218px;
+  left: 57px;
+  background-color: #330036;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000040;
+}
